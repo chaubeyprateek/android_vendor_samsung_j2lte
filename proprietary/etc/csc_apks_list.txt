@@ -1,0 +1,7 @@
+/system/app/FloraAndFauna/FloraAndFauna.apk
+/system/app/Heritage/Heritage.apk
+/system/app/Humour/Humour.apk
+/system/app/MixRadio/MixRadio.apk
+/system/app/OperaMax/OperaMax.apk
+/system/app/PreinstallProvider/PreinstallProvider.apk
+/system/priv-app/AutoBackup-release/AutoBackup-release.apk
